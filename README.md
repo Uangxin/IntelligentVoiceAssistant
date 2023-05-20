@@ -1,2 +1,3 @@
 # IntelligentVoiceAssistant
 基于Android的智能语音助手
+基本对话内容使用青云客对话API
